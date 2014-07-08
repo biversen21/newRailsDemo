@@ -11,7 +11,7 @@ gem 'bcrypt-ruby', '3.1.2'
 group :development do
   gem 'sqlite3'
   gem 'minitest'
-  gem 'rspec-rails', '2.13.1'
+  gem 'rspec-rails', '~> 2.14.0.rc1'
 end
 
 group :test do
